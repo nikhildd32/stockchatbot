@@ -1,4 +1,4 @@
-# stockchatbot# Stock Chatbot
+# Stock Chatbot
 
 Stock Chatbot is a powerful tool that uses OpenAI's GPT-3 model to provide information about stocks. It can fetch the latest stock price, calculate Simple Moving Average (SMA), Exponential Moving Average (EMA), Relative Strength Index (RSI), and Moving Average Convergence Divergence (MACD). It can also plot the stock price for the last year.
 
