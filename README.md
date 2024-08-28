@@ -42,3 +42,5 @@ The chatbot uses OpenAI's ChatCompletion API to generate responses to user input
 ## Try It Out
 
 You can try out the Stock Chatbot [here](https://nikhildd32-stockchatbot-main-0gm63b.streamlit.app/). More to come soon!
+<img width="1707" alt="Screenshot 2024-08-27 at 5 16 29 PM" src="https://github.com/user-attachments/assets/fa63dd2c-7c2c-4b28-af89-18c82c45e51e">
+<img width="1706" alt="Screenshot 2024-08-27 at 5 17 40 PM" src="https://github.com/user-attachments/assets/9ada6609-6043-4215-978a-8f0a0573632a">
